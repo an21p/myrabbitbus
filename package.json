@@ -1,0 +1,24 @@
+{
+  "name": "myrabbitbus",
+  "version": "0.0.1-development",
+  "description": "Tortoise bus setup with trap and log uncaught errors using llog.",
+  "author": "espen.folke@gmail.com",
+  "homepage": "https://github.com/espenfolke/myrabbitbus",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/espenfolke/myrabbitbus.git"
+  },
+  "dependencies": {
+    "llog": "^0.2.0",
+    "redis": "^3.0.2",
+    "tortoise": "^1.0.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "jest": "26.0.1"
+  }
+}
