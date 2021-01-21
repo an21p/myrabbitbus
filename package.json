@@ -1,6 +1,6 @@
 {
   "name": "myrabbitbus",
-  "version": "0.0.1-development",
+  "version": "0.0.2-development",
   "description": "Tortoise bus setup with trap and log uncaught errors using llog.",
   "author": "espen.folke@gmail.com",
   "homepage": "https://github.com/espenfolke/myrabbitbus",
